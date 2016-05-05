@@ -1,5 +1,5 @@
 // Guidgen-js
-// Creates pseudo random 8 character guid prefixed with 'sbx'
+// Creates pseudo random 8 character guid prefixed with 'sbx-'
 // Useful for automation / orchestration
 // Author: Brian Snyder
 
